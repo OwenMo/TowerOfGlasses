@@ -1,3 +1,5 @@
+Source code distribution Under http://creativecommons.org/licenses/by-nc/3.0/
+
 Name: Jenis Modi
 
 Date: Dec 7 2012
@@ -5,6 +7,7 @@ Date: Dec 7 2012
 Project Authors:
 
 Jenis Modi
+
 Dr. Wayne Cochran
 
 
